@@ -33,3 +33,4 @@ devstack5 |      None |           3 |        5 |      18
 devstack6 |      None |           5 |        6 |      12
   Summary |           |          17 |       32 |     102
 ```
+On example above we can see that on devstack0 hypervisor is currently running 2 VMs and additionally we could spawn 6 instances using m1.micro flavor or 12 using m1.nano.
