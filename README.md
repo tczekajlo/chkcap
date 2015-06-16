@@ -16,7 +16,7 @@ optional arguments:
   -c CPU_OVERCOMMIT, --cpu-overcommit CPU_OVERCOMMIT
                         CPU overcommit fraction. Default value is 16.
   -a AGGREGATE, --aggregate AGGREGATE
-                        Name of aggregate. Hosts from given aggregate are take
+                        Name of aggregate. Hosts from given aggregate are taking
                         into account.
 ```
 
