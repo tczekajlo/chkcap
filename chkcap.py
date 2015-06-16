@@ -91,7 +91,7 @@ def parse_args():
     parser.add_argument('-c', '--cpu-overcommit', help='CPU overcommit fraction. \
             Default value is 16.', default=16, type=int)
     parser.add_argument('-a', '--aggregate', help='Name of aggregate. Hosts from \
-            given aggregate are take into account.')
+            given aggregate are taking into account.')
 
     args = parser.parse_args()
     
